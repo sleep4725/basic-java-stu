@@ -1,3 +1,6 @@
+/**
+ * 두 변수의 값 교환하기
+ */
 public class VarEx1 {
     public static void main(String[] args) {
         int xData = 10;
